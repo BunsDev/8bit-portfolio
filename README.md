@@ -8,7 +8,6 @@ Welcome to the 8-bit Pixely Portfolio Orcish Template! This unique developer por
 ## 8-bit Pixely Portfolio Orcish Template
 
 First, run the development server:
-
 ```bash
 npm run dev
 # or
