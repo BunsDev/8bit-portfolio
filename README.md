@@ -1,21 +1,53 @@
 <div align="center">
-  <img src="https://github.com/TheOrcDev/8bit-portfolio/assets/7549148/349c8acd-4b21-4996-b631-5227b2eb3fc3" alt="pixel-orc"/>
+<img src="https://github.com/TheOrcDev/8bit-portfolio/assets/7549148/349c8acd-4b21-4996-b631-5227b2eb3fc3" alt="8-bit portfolio preview" width="220" />
+
+# 8bit Portfolio
+
+🎮 A retro-styled portfolio starter built with Next.js, TypeScript, Tailwind CSS, and `nes.css`.
+
+Build a personal site that feels like an old-school game screen instead of another generic developer template.
 </div>
 
 ## Overview
-Welcome to the 8-bit Pixely Portfolio Orcish Template! This unique developer portfolio is crafted in Next.js and styled using the nes.css library to bring a nostalgic, old-school NES look. Perfect for developers who want to showcase their projects with a retro gaming aesthetic, this template combines modern web development with a delightful 8-bit design.
 
-## 8-bit Pixely Portfolio Orcish Template
+`8bit-portfolio` is a compact portfolio template for developers, creators, and indie builders who want a playful 8-bit presentation without giving up a modern React/Next.js workflow.
 
-First, run the development server:
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The project uses a simple data-driven structure:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- page layout in `app/`
+- reusable UI in `components/ui/`
+- editable portfolio content in `lib/data/`
+
+That means you can usually personalize the site by changing text, links, and cards without restructuring the app.
+
+## Features
+
+- Retro NES-inspired UI with `nes.css`
+- Next.js 15 App Router setup
+- TypeScript support
+- Tailwind CSS styling
+- Google `Press Start 2P` font integration
+- Data-driven profile, skills, projects, and social links
+- Mobile-friendly single-page layout
+- Ready for local development and production builds
+
+## Tech Stack
+
+- Next.js 15
+- React 18
+- TypeScript 5
+- Tailwind CSS 3
+- nes.css
+- next/font
+
+## Quick Start
+
+### Prerequisites
+
+- Node.js 18.18+ or newer
+- npm or pnpm
+
+### Install and run
+
+Using npm:
+
